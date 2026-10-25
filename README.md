@@ -1,12 +1,16 @@
 # AI 热点（安卓）
 
+**下载安卓安装包（AI 热点 v0.7.3，3 MB）：**
+
+https://github.com/wailii/aihot/releases/latest/download/aihot-v0.7.3.apk
+
+手机浏览器打开这个链接就会直接下载。仓库根目录的 `AI热点-安卓原生版-v0.7.3.apk` 是同一个文件。
+
 在手机上看 AI 圈的新闻、热点、日报和模型榜单，内容来自 [AIHOT](https://aihot.news)。
 
-## 下载
+## 安装
 
-**[点这里下载 AI 热点 v0.7.3（安卓，3 MB）](https://github.com/wailii/aihot/releases/latest/download/aihot-v0.7.3.apk)**
-
-**怎么装**：用手机浏览器点上面的链接，下载完点开安装包。手机提示「未知来源」或「外部来源应用」时选允许（vivo 要先勾「已了解风险」再点继续安装）。
+下载完点开安装包。手机提示「未知来源」或「外部来源应用」时选允许（vivo 要先勾「已了解风险」再点继续安装）。
 
 - 需要安卓 11 及以上
 - 英文文章「译成中文」要在设置里填一个大模型接口的 Key，不填也能正常看
